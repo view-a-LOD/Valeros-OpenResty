@@ -1,2 +1,2 @@
 #! /bin/bash
-nginx -p /root/openresty -s reload
+openresty -p /root/openresty -s reload
